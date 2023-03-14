@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Home"
+        android:icon="@drawable/home"
+        android:id="@+id/homepage"/>
+    <item
+        android:title="Share "
+        android:icon="@drawable/share"
+        android:id="@+id/share"/>
+    <item
+        android:title="Developers"
+        android:icon="@drawable/code"
+        android:id="@+id/developers"/>
+    <item
+        android:title="about app"
+        android:id="@+id/about_app"
+        android:icon="@drawable/about"/>
+
+</menu>
